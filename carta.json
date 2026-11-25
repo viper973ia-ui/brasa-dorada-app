@@ -1,0 +1,150 @@
+{
+  "Entrantes": [
+    {
+      "nombre": "Croquetas de jamón ibérico",
+      "precio": 9.5,
+      "descripcion": "8 unidades caseras, cremosas"
+    },
+    {
+      "nombre": "Patatas bravas",
+      "precio": 6.5,
+      "descripcion": "Con salsa brava y alioli de la casa"
+    },
+    {
+      "nombre": "Ensalada de burrata",
+      "precio": 12.9,
+      "descripcion": "Tomate rosa, pesto y piñones"
+    },
+    {
+      "nombre": "Pulpo a la gallega",
+      "precio": 18.5,
+      "descripcion": "Con cachelos y pimentón de la Vera"
+    },
+    {
+      "nombre": "Tabla de ibéricos",
+      "precio": 19.9,
+      "descripcion": "Jamón, lomo, chorizo y salchichón"
+    },
+    {
+      "nombre": "Gazpacho andaluz",
+      "precio": 6.9,
+      "descripcion": "Con picatostes y guarnición"
+    },
+    {
+      "nombre": "Calamares a la andaluza",
+      "precio": 11.5,
+      "descripcion": "Con limón y mayonesa de lima"
+    }
+  ],
+  "Principales": [
+    {
+      "nombre": "Paella de marisco (2 pax)",
+      "precio": 34.0,
+      "descripcion": "Arroz bomba, gamba roja y mejillón"
+    },
+    {
+      "nombre": "Arroz negro",
+      "precio": 16.5,
+      "descripcion": "Con sepia y alioli"
+    },
+    {
+      "nombre": "Entrecot de vaca madurada",
+      "precio": 26.9,
+      "descripcion": "300 g con patatas y pimientos"
+    },
+    {
+      "nombre": "Secreto ibérico",
+      "precio": 19.5,
+      "descripcion": "A la brasa con chimichurri"
+    },
+    {
+      "nombre": "Lubina a la sal",
+      "precio": 22.5,
+      "descripcion": "Con verduras de temporada"
+    },
+    {
+      "nombre": "Bacalao al pil-pil",
+      "precio": 21.0,
+      "descripcion": "Receta tradicional vasca"
+    },
+    {
+      "nombre": "Hamburguesa gourmet",
+      "precio": 15.9,
+      "descripcion": "Wagyu, cheddar curado y cebolla caramelizada"
+    },
+    {
+      "nombre": "Risotto de setas",
+      "precio": 17.5,
+      "descripcion": "Con trufa negra y parmesano"
+    }
+  ],
+  "Postres": [
+    {
+      "nombre": "Tarta de queso",
+      "precio": 6.9,
+      "descripcion": "Al horno, estilo La Viña"
+    },
+    {
+      "nombre": "Coulant de chocolate",
+      "precio": 7.5,
+      "descripcion": "Con helado de vainilla"
+    },
+    {
+      "nombre": "Torrija caramelizada",
+      "precio": 6.5,
+      "descripcion": "Con helado de canela"
+    },
+    {
+      "nombre": "Crema catalana",
+      "precio": 5.9,
+      "descripcion": "Quemada al momento"
+    },
+    {
+      "nombre": "Fruta de temporada",
+      "precio": 4.9,
+      "descripcion": "Selección del día"
+    }
+  ],
+  "Bebidas": [
+    {
+      "nombre": "Agua mineral",
+      "precio": 2.5,
+      "descripcion": "50 cl"
+    },
+    {
+      "nombre": "Refresco",
+      "precio": 3.0,
+      "descripcion": "Cola, naranja o limón"
+    },
+    {
+      "nombre": "Caña de cerveza",
+      "precio": 2.8,
+      "descripcion": "Cerveza de barril"
+    },
+    {
+      "nombre": "Copa de vino tinto",
+      "precio": 4.5,
+      "descripcion": "D.O. Rioja crianza"
+    },
+    {
+      "nombre": "Copa de vino blanco",
+      "precio": 4.2,
+      "descripcion": "D.O. Rueda verdejo"
+    },
+    {
+      "nombre": "Botella de vino Ribera",
+      "precio": 24.0,
+      "descripcion": "D.O. Ribera del Duero"
+    },
+    {
+      "nombre": "Sangría (jarra)",
+      "precio": 14.0,
+      "descripcion": "1 litro"
+    },
+    {
+      "nombre": "Café",
+      "precio": 1.8,
+      "descripcion": "Solo, cortado o con leche"
+    }
+  ]
+}
